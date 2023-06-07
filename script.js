@@ -1,4 +1,4 @@
-// SWITCH
+//SWITCH
 // switch is an alternative way of writing a complicated if/else statement
 /*
 const day = "monday";
